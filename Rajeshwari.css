@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+  <link rel="stylesheet" type="text/css" href="Rajeshwari.css">
+</head>
+<body>
+
+  <header>
+    <h1>Rajeswari.BDoe</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#work">Work</a></li> 
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <section id="about">
+    <h2>web developer</h2>
+    <p>I will do my work.</p>
+  </section>
+
+  <section id="work">
+    <h2>My Work</h2>
+    
+    <h3>Project 1</h3>
+    <p>Vivamus accumsan blandit ligula. Sed lobortis efficitur sapien sed mollis.</p>
+    
+    <h3>Project 2</h3>
+    <p>Maecenas ultricies rhoncus tincidunt. Nam porttitor iaculis erat, quis bibendum lacus pulvinar vel.</p>
+
+  </section
